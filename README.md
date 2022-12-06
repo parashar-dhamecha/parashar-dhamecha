@@ -5,10 +5,10 @@
 Passionate Android Developer with 4 years of professional experience. During these 4 years, I have worked with MNCs, startups, and mid size companies. My ability to adapt to any environment and people has made me an independent and collaborative software engineer. I thrive to continuously learn new technologies and implement it in ongoing projects to solve queries and improve product performance!
 
 * 🌍  I'm based in Ahmedabad
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/parashardhamecha/)
 * 🚀  I'm currently working on [Jetpack Compose](http://developer.android.com/jetpack/compose)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on CI/CD
+* 🖥️  You can DM me at [LinkedIn](http://www.linkedin.com/in/parashardhamecha/)
 * ⚡  Full Snack Android Developer 😄
 
 ### Skills
