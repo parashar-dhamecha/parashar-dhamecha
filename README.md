@@ -1,8 +1,6 @@
-Hi 👋 My name is Parashar Dhamecha
-==================================
-
-Senior Android Developer
-------------------------
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">👋 Hi, I am Parashar Dhamecha</h1>
+<h3 align="center">Senior Android Developer from India</h1>
 
 Passionate Android Developer with 4 years of professional experience. During these 4 years, I have worked with MNCs, startups, and mid size companies. My ability to adapt to any environment and people has made me an independent and collaborative software engineer. I thrive to continuously learn new technologies and implement it in ongoing projects to solve queries and improve product performance!
 
